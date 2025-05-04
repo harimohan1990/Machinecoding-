@@ -266,3 +266,154 @@ Great! If you're looking for **machine coding questions focused on frontend deve
 
 ---
 
+
+1. Accordion
+Expandable/collapsible panels for displaying content.
+
+2. Analog Clock
+A real-time analog clock with hour, minute, and second hands.
+
+3. Image Carousel
+A rotating banner or slideshow with next/prev functionality.
+
+4. Connect Four Game
+Build the classic two-player game using a grid layout.
+
+5. Countdown Timer
+A timer that counts down from a specified duration.
+
+6. Counter
+A simple increment/decrement button with optional reset.
+
+7. Drag and Drop
+A UI feature to move items between containers or reorder lists.
+
+8. Infinite Scroll
+Load more content as the user scrolls to the bottom of the page.
+
+9. JSON Creator
+A form or UI tool to dynamically build JSON objects.
+
+10. Light and Dark Mode
+Toggle between light and dark themes across an app.
+
+11. Navigation Bar
+Responsive nav menu with dropdowns and mobile support.
+
+12. Pagination
+Break long lists into pages with next/prev buttons.
+
+13. Progress Bar
+Visual indicator for progress (e.g., form completion or loading).
+
+14. Skeleton Loader
+Placeholder UI while content is loading.
+
+15. Star Rating
+Clickable star icons to rate an item or service.
+
+16. Tic-Tac-Toe
+The classic Xs and Os game, playable in the browser.
+
+17. Toast Popup
+Transient messages for success, error, or warning notifications.
+
+18. Todo List
+Create, update, and delete tasks — classic CRUD example.
+
+19. TypeAhead
+Autocomplete suggestions as you type into an input.
+
+20. Wrapper Component
+Reusable container component to wrap other elements.
+
+21. Email Templates
+Design responsive HTML email layouts.
+
+22. Stopwatch
+A timer that starts, stops, and resets with precision.
+
+23. API Integration (CocktailDB)
+Fetch and display cocktail recipes from an API.
+
+24. JSON Accordion with Filters
+Expandable sections populated from JSON data, with filtering.
+
+25. Holy Grail Layout
+A classic layout pattern with header, footer, sidebar, and main content.
+
+26. Tab Component with Navigation
+Tabbed interface to switch between content sections.
+
+27. Nested Comments
+Threaded comments like Reddit or YouTube replies.
+
+28. Signup Form with Validation
+Form with client-side validation for fields like email, password, etc.
+
+29. API Integration with Filters
+Consume API data and filter it based on user inputs.
+
+30. Arrange Color Boxes
+Click or drag to reorder colorful boxes.
+
+31. Custom Hooks (React)
+Reusable logic encapsulated in a custom React hook.
+
+32. Fetch API — Countries List
+Get country data from a public API and display it.
+
+33. Transfer List
+Move items between two lists (select/deselect).
+
+34. Filter on MultiSelect Dropdown
+Filter content using selections from a multi-select dropdown.
+
+35. Checkboxes Select All
+“Select all” functionality for multiple checkboxes.
+
+36. Password Generator
+Create random passwords with length and character options.
+
+37. Password Strength Checker
+Visual indicator for password strength (weak, medium, strong).
+
+38. Data Table with Search and Sort
+Searchable, sortable table displaying structured data.
+
+39. Colorful List
+A dynamic list where each item has a random or selectable color.
+
+40. File Explorer
+Mimic a file system tree structure using folders and files.
+
+41. Giphy Engine
+Search and display GIFs using the Giphy API.
+
+42. Calculator
+Basic arithmetic calculator with clean UI and state management.
+
+43. Full-Screen Modal Overlay
+Open a modal that covers the entire screen.
+
+44. Memoized API Integration
+Fetch API data with performance optimization (memoization).
+
+45. Tree Structure
+Recursive tree view (expand/collapse nested items).
+
+46. Phone Book
+Create, search, and edit contacts.
+
+47. Like/Dislike Buttons
+Toggleable like and dislike buttons with count updates.
+
+48. Basic Fetch Country Data
+Simple fetch call to display countries, flags, and details.
+
+49. Tooltip
+Show helpful text on hover/focus over elements.
+
+50. Calendar Generator
+Generate a monthly calendar dynamically using JavaScript.
+
